@@ -1,8 +1,6 @@
 # Basic Node.js Application
 
 This is a basic Node.js application that includes user authentication, rate limiting, and caching.
-⏰
-
 ## Installation
 
 1. Clone the repository:
